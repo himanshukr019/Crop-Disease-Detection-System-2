@@ -1,4 +1,4 @@
-# Crop-Disease-Detection-System-2
+# 🌿 CropScan AI — Crop Disease Detection System
 
 A production-grade web application that uses a **MobileNetV2 CNN** to detect
 plant diseases from leaf images, complete with a dark botanical UI and rich

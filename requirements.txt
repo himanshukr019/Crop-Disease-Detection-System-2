@@ -1,0 +1,21 @@
+# ─── Crop Disease Detection System — Dependencies ────────────────────────────
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Python 3.9 – 3.11 recommended
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Deep learning
+tensorflow>=2.13.0,<3.0.0   # includes Keras; use tensorflow-cpu if no GPU
+
+# Image processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Web framework
+Flask>=3.0.0
+Werkzeug>=3.0.0
+
+# Optional: WSGI server for production
+# gunicorn>=21.0.0
